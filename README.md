@@ -7,21 +7,18 @@ Selenium es un framework de automatización de navegadores multilenguaje. Con é
 - Utilizar comandos básicos
 - Preparar entorno de trabajo
 
+Profesor: Héctor Vega 
+@TerragnigmArk
+Platzi
 
-pruebas 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
-
-
-**Table of Contents**
+**Tabla de Contenidos**
 
 [TOCM]
 
 [TOC]
 
-#H1 header
-##H2 header
+# Historia de Selenium
+## ¿Qué es Selenium?
 ###H3 header
 ####H4 header
 #####H5 header
@@ -32,6 +29,45 @@ pruebas
 ####Heading 4 link [Heading link](https://github.com/pandao/editor.md "Heading link") Heading link [Heading link](https://github.com/pandao/editor.md "Heading link")
 #####Heading 5 link [Heading link](https://github.com/pandao/editor.md "Heading link")
 ######Heading 6 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+
+# Historia de Selenium
+
+## ¿Qué es Selenium?
+
+Selenium es una suite de herramientas (software) para la automatización de navegadores. 
+
+Una de las ventajas de Selenium es su compatibilidad con diferentes navegadores web: 
+
+![](https://github.com/faidrn/curso-de-Introduccion-a-selenium-con-python/images/browsers.png)
+Imagen tomada de Platzi
+
+**NOTA:** Algunos navegadores web que no son muy populares o son muy modernos no presentan compatibilidad con Selenium.
+
+De igual forma Selenium es compatible con distintos lenguajes de programación: 
+
+![](https://github.com/faidrn/curso-de-Introduccion-a-selenium-con-python/images/lenguajes-de-programacion.png)
+Imagen tomada de Platzi
+
+lo que ofrece una gran variedad de lenguajes con los cuales trabajar.
+
+**Selenium no es una herramienta de Testing ni de Web scraping**, aunque puede ser usado para estas tareas, pero su desempeño puede no ser el optimo.
+
+![](https://github.com/faidrn/curso-de-Introduccion-a-selenium-con-python/images/comienzo-1.png)
+Imagen tomada de Platzi
+
+![](https://github.com/faidrn/curso-de-Introduccion-a-selenium-con-python/images/comienzo-2.png)
+Imagen tomada de Platzi
+
+Shinya Katasani desarrollo lo que conocemos como Selenium IDE (Extensión de firefox y chrome), para poder automatizar interacciones dentro del navegador a través de clics sin escribir líneas de código.
+
+![](https://github.com/faidrn/curso-de-Introduccion-a-selenium-con-python/images/comienzo-3.png)
+Imagen tomada de Platzi
+
+**Protocolo WebDriver:** Permite conecatrse a una API de alto nivel para ejecutar comandos dentro del navegador.
+
+
+
+
 
 ##Headers (Underline)
 
