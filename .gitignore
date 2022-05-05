@@ -1,3 +1,8 @@
-#ignorar carpeta de videos
+# OS specific
+*.DS_Store
+
+# ignorar carpeta de videos
 Others/
-__pycache__/
+
+# Python
+__pycache__
