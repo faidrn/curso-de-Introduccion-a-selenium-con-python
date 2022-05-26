@@ -1,5 +1,4 @@
 import csv, unittest
-from email import message
 from selenium import webdriver 
 from webdriver_manager.chrome import ChromeDriverManager
 # de la libreria ddt extraemos los submodulos ddt, data, unpack
